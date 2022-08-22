@@ -4,7 +4,7 @@ I have attached a circuit diagram of the setup made by a professional electricia
 
 Description:
 
-The general idea of this project is to create a control panel in VR, with buttons that send information along a usb cable to an Arduino or some microcontroller. Once the Arduino receives a signal, it outputs some digital pin, which triggers a relay, which moves a part of the robotic arm. I do not have specific instructions to exactly recreate this scenario, but I may make that in the future. In the meantime, I have commented the code as best as I can, and have included an electrical diagram of the setup along with a picture.
+The general idea of this project is to create a control panel in VR, with buttons that send information along a usb cable to an Arduino or some microcontroller. Once the Arduino receives a signal, it outputs some digital pin, which triggers a relay, which moves a part of the robotic arm. I do not have specific instructions to exactly recreate this scenario, but I may make that in the future. In the meantime, I have commented the code as best as I can, and have included an electrical diagram of the setup.
 
 Links in the program.cs file!
 
