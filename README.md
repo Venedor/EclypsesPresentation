@@ -9,3 +9,5 @@ The general idea of this project is to create a control panel in VR, with button
 Links in the program.cs file!
 
 I would make the license MIT, but EmGu requires that I make the license GNU GPLv3.
+
+On the circuit diagram, each motor has an 'up' and 'down' relay, the LED has an 'up' relay. Up corresponds to +, down with -. 
